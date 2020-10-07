@@ -11,6 +11,7 @@
 	getch();
 	system("cls");
 	printf("Hola mundo\n");
+	printf("\nArmando Vazquez\n");
 	printf("Rafa VR");
 	getch();
 	return 0;	
