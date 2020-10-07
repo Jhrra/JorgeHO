@@ -11,6 +11,7 @@
 	getch();
 	system("cls");
 	printf("Hola mundo\n");
+	printf("Rafa VR");
 	getch();
 	return 0;	
 }
